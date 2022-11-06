@@ -1,16 +1,6 @@
 # getlocate_app
 
-A new Flutter project.
+#geolocator paketi kullanılarak mevcut konum ve hedef konumun enlem-boylam bilgileri girilerek aradaki mesafeyi ölçüp gösteren flutter uygulaması. 
 
-## Getting Started
+![ezgif com-gif-maker(3)](https://user-images.githubusercontent.com/70608758/200183796-839a0f63-d26b-4c19-939d-52c9e16bd5d3.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
